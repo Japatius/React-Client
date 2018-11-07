@@ -1,2 +1,2 @@
 # React-Client
-An API made with Node.js express and React.js
+Front-end for express API, made with React.js
